@@ -1,0 +1,6 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingArrays\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingArrays\UnderstandingArrays\obj\x86\Debug\UnderstandingArrays.pdb

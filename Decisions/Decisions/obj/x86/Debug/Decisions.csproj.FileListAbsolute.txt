@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\Decisions\bin\Debug\Decisions.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\Decisions\bin\Debug\Decisions.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\Decisions\obj\x86\Debug\Decisions.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\Decisions\obj\x86\Debug\Decisions.pdb

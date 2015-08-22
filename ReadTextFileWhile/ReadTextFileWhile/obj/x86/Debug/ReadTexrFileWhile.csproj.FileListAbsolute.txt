@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\ReadTexrFileWhile\bin\Debug\ReadTexrFileWhile.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\ReadTexrFileWhile\bin\Debug\ReadTexrFileWhile.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\ReadTexrFileWhile\obj\x86\Debug\ReadTexrFileWhile.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\ReadTexrFileWhile\obj\x86\Debug\ReadTexrFileWhile.pdb

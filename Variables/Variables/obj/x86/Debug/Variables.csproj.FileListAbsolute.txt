@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\Variables\bin\Debug\Variables.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\Variables\bin\Debug\Variables.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\Variables\obj\x86\Debug\Variables.pdb

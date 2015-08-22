@@ -1,0 +1,6 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\DatesAndTimes\obj\x86\Debug\DatesAndTimes.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\DatesAndTimes\obj\x86\Debug\DatesAndTimes.pdb
+C:\Users\u35988\Documents\Visual Studio 2010\Projects\DatesAndTimes\DatesAndTimes\obj\x86\Debug\DatesAndTimes.exe
+C:\Users\u35988\Documents\Visual Studio 2010\Projects\DatesAndTimes\DatesAndTimes\obj\x86\Debug\DatesAndTimes.pdb

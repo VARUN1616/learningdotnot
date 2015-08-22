@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\HelerMethod\bin\Debug\HelerMethod.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\HelerMethod\bin\Debug\HelerMethod.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\HelerMethod\obj\x86\Debug\HelerMethod.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\HelerMethod\obj\x86\Debug\HelerMethod.pdb

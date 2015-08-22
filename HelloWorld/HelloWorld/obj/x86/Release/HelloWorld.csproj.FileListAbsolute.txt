@@ -1,0 +1,4 @@
+C:\Users\u35988\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb
