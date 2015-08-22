@@ -1,0 +1,4 @@
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Release\UnderstandingInheritance.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Release\UnderstandingInheritance.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\x86\Release\UnderstandingInheritance.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\x86\Release\UnderstandingInheritance.pdb

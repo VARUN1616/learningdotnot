@@ -1,0 +1,8 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingInheritance\obj\x86\Debug\UnderstandingInheritance.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingInheritance\obj\x86\Debug\UnderstandingInheritance.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\x86\Debug\UnderstandingInheritance.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\x86\Debug\UnderstandingInheritance.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
