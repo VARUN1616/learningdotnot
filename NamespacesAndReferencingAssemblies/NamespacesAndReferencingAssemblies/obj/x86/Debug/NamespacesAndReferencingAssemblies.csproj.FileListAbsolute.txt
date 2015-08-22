@@ -1,0 +1,8 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\bin\Debug\NamespacesAndReferencingAssemblies.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\bin\Debug\Tabor.dll
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\obj\x86\Debug\NamespacesAndReferencingAssemblies.csprojResolveAssemblyReference.cache
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\obj\x86\Debug\NamespacesAndReferencingAssemblies.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\NamespacesAndReferencingAssemblies\obj\x86\Debug\NamespacesAndReferencingAssemblies.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\x86\Debug\NamespacesAndReferencingAssemblies.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\x86\Debug\NamespacesAndReferencingAssemblies.pdb
