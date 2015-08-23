@@ -1,0 +1,6 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingEnums\bin\Debug\UnderstandingEnums.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingEnums\bin\Debug\UnderstandingEnums.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingEnums\obj\x86\Debug\UnderstandingEnums.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingEnums\obj\x86\Debug\UnderstandingEnums.pdb
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingEnums\UnderstandingEnums\obj\x86\Debug\UnderstandingEnums.exe
+C:\Users\u35988\documents\visual studio 2010\Projects\UnderstandingEnums\UnderstandingEnums\obj\x86\Debug\UnderstandingEnums.pdb
