@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingScope\obj\x86\Debug\UnderstandingScope.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UnderstandingScope\obj\x86\Debug\UnderstandingScope.pdb

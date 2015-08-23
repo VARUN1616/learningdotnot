@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\UsingSwitch\bin\Debug\UsingSwitch.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UsingSwitch\bin\Debug\UsingSwitch.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\UsingSwitch\obj\x86\Debug\UsingSwitch.pdb
