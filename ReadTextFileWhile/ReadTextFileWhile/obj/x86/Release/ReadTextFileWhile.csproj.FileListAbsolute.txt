@@ -1,5 +1,5 @@
-C:\Users\u35988\documents\visual studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\Value.txt
 C:\Users\u35988\documents\visual studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.exe
 C:\Users\u35988\documents\visual studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.pdb
 C:\Users\u35988\documents\visual studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\x86\Release\ReadTextFileWhile.exe
 C:\Users\u35988\documents\visual studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\x86\Release\ReadTextFileWhile.pdb
+C:\Users\u35988\Documents\Visual Studio 2010\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\Value1.txt
