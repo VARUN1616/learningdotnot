@@ -14,7 +14,7 @@ namespace ReadTextFileWhile
             try
             {
 
-                StreamReader myReader = new StreamReader("\\boo\\Value.txt");
+                StreamReader myReader = new StreamReader("Value.txt");
                 string line = "";
                 while (line != null)
                 {
