@@ -1,0 +1,4 @@
+C:\Users\u35988\AppData\Local\Temporary Projects\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\u35988\AppData\Local\Temporary Projects\WorkingWithCollections\obj\x86\Debug\WorkingWithCollections.exe
+C:\Users\u35988\AppData\Local\Temporary Projects\WorkingWithCollections\obj\x86\Debug\WorkingWithCollections.pdb
